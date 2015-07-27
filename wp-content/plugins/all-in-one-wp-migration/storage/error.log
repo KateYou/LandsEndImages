@@ -1,0 +1,12 @@
+[Jul 26 2015 22:00:51] ERROR_HANDLER 
+Number:  2
+Message: mail(): Failed to connect to mailserver at "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini or use ini_set()
+File:    C:\Users\younk_000\Documents\GitHub\LandsEndImages\wp-includes\class-phpmailer.php
+Line:    603
+-------------------------------------------- 
+[Jul 26 2015 22:00:52] ERROR_HANDLER 
+Number:  2
+Message: mail(): Failed to connect to mailserver at "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini or use ini_set()
+File:    C:\Users\younk_000\Documents\GitHub\LandsEndImages\wp-includes\class-phpmailer.php
+Line:    603
+-------------------------------------------- 
